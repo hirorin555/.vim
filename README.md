@@ -1,4 +1,4 @@
 .vim
 ====
 
-my .vim files
+my .vim files and color themes
